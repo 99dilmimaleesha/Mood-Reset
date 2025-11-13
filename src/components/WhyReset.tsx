@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function WhyReset() {
   return (
     <section className="min-h-screen bg-gradient-to-b from-green-100 to-green-50 flex items-center justify-center px-6 py-20">
